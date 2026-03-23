@@ -24,4 +24,6 @@ A Python-based voice assistant that can understand voice commands and perform ta
 - What is the time
 - Open Google
 - open calculator
+- how are you
+- who are you
 - Exit
